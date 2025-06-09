@@ -132,7 +132,7 @@ footer {
 .hero {
   position: relative;
   height: 500px;
-  background-image: url(/images/SJITC_Term2\ Closing.png);
+  background-image: url(../images/hero1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

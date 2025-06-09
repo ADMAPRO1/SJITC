@@ -1,8 +1,8 @@
 // Array of hero background images (make sure these files exist)
 const heroImages = [
-  "/images/hero1.jpg",
-  "/images/hero2.jpg",
-  "/images/hero3.jpg"
+  "../images/hero1.jpg",
+  "../images/hero2.jpg",
+  "../images/hero3.jpg"
 ];
 
 let currentHero = 0;
